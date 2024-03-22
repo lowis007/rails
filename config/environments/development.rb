@@ -1,5 +1,5 @@
 require "active_support/core_ext/integer/time"
-
+Rails.application.config.hosts << "3000-codeanywhere-templates-r-emd8eh3vqd.us1.codeanyapp.com"
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
